@@ -6,10 +6,10 @@ classes: wide
 author_profile: true
 ---
 
-**Dataset Source:**  
+💿 **Dataset Source:**  
 [Kaggle - Sales Forecasting Data](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data)
 
-**SQL Data Preparation**  
+💾 **SQL Data Preparation**  
 [Merchandising_Data_Clean.html](/assets/projects/Merchandising_Data_Clean.html)
 
 ---
@@ -18,14 +18,12 @@ author_profile: true
 
 An interactive Power BI dashboard analyzing customer behavior, sales performance, product profitability, and shipping efficiency. SQL was used for data preprocessing, segmentation, and metric creation such as CLV, shipping delays, and spend ranking.
 
----
 
 ## Dashboard Preview  
 ![Dashboard Preview](/assets/images/Merchandising%20Project%20Screenshot)
 - **Interactive Power BI (.pbix)**  
   [Merchandising Project.pbix](/assets/projects/Merchandising%20Project.pbix)
 
----
 
 ## Key Insights
 
@@ -77,7 +75,6 @@ Technology contributes most revenue, but it's also a concentration risk. Furnitu
 
 Faster delivery options are underused and may not meet customer expectations. Priority shipping for high-value buyers could improve satisfaction.
 
----
 
 ## ⭐ Recommendations
 
@@ -100,4 +97,3 @@ Faster delivery options are underused and may not meet customer expectations. Pr
 - Adjust product assortment to regional preferences
 - Provide shipping incentives to drive engagement in underserved states
 
----

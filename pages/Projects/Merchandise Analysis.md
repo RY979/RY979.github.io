@@ -26,7 +26,7 @@ An interactive Power BI dashboard analyzing customer behavior, sales performance
 
 ## Key Insights
 
-### 1. Customer Value and Buying Behavior
+#### 1. Customer Value and Buying Behavior
 
 - Average CLV: **2,852**  
 - Average Orders per Customer: **6.21**  
@@ -36,7 +36,7 @@ High-spending customers tend to place more orders. These buyers are ideal target
 
 ---
 
-### 2. Sales Performance Over Time
+#### 2. Sales Performance Over Time
 
 - Steady revenue growth from **2016 to 2018**
 - Increase in both **sales and number of customers**
@@ -46,7 +46,7 @@ This indicates potential for holiday campaigns, bundling offers, and seasonal pr
 
 ---
 
-### 3. Geographic Opportunities
+#### 3. Geographic Opportunities
 
 - Revenue is concentrated in **California, New York, Texas, and Washington**
 - Central states show lower sales performance
@@ -55,7 +55,7 @@ Regional merchandising strategies could help expand growth in underdeveloped are
 
 ---
 
-### 4. Product Category Performance
+#### 4. Product Category Performance
 
 | Category | Share of Total Sales |
 |----------|----------------------|
@@ -67,7 +67,7 @@ Technology contributes most revenue, but it's also a concentration risk. Furnitu
 
 ---
 
-### 5. Shipping Mode and Service Quality
+#### 5. Shipping Mode and Service Quality
 
 - Standard Class: **59.79%** of all shipments  
 - Average shipping delay: **3.96 days**

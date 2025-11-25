@@ -20,7 +20,7 @@ An interactive Power BI dashboard analyzing customer behavior, sales performance
 
 
 ## Dashboard Preview  
-![Dashboard Preview](/assets/images/Merchandising%20Project%20Screenshot.png)
+![Dashboard Preview](/assets/images/MerchandisingProjectScreenshot.png)
 - **Interactive Power BI (.pbix)**  
   [Merchandising Project.pbix](/assets/projects/Merchandising%20Project.pbix)
 

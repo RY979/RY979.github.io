@@ -2,10 +2,9 @@
 layout: single
 title: "Merchandising Dashboard (Power BI + SQL)"
 permalink: /projects/merchandising-dashboard/
-classes: wide
+classes: wide merch-page
 author_profile: true
 ---
-
 
 📊 **Dataset Source:** [Kaggle - Sales Forecasting Data](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data)
 

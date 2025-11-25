@@ -3,7 +3,7 @@ layout: single
 title: "Merchandising Dashboard (Power BI + SQL)"
 permalink: /projects/merchandising-dashboard/
 classes: wide
-author_profile: false
+author_profile: true
 ---
 
 

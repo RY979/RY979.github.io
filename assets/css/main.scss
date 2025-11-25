@@ -28,3 +28,21 @@
   object-fit: cover;
   display: block;
 }
+
+.merch-page {
+  max-width: 1100px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.merch-page p,
+.merch-page li {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.merch-page h2, 
+.merch-page h3 {
+  margin-top: 22px;
+  font-size: 20px;
+}

@@ -12,7 +12,6 @@ author_profile: true
 💾 **SQL Data Preparation**  
 [Merchandising_Data_Clean.html](/assets/projects/Merchandising_Data_Clean.html)
 
----
 
 ## Project Overview
 
@@ -78,21 +77,21 @@ Faster delivery options are underused and may not meet customer expectations. Pr
 
 ## ⭐ Recommendations
 
-### 1. Strengthen High-Value Customer Relationships
+#### 1. Strengthen High-Value Customer Relationships
 - Create tiered loyalty programs (Gold, Platinum)
 - Offer bundle discounts and early product access
 - Provide personalized product suggestions based on purchase history
 
 ---
 
-### 2. Improve Shipping Experience
+#### 2. Improve Shipping Experience
 - Prioritize faster shipping for high CLV customers
 - Reduce average shipping delay through logistics optimization
 - Promote premium delivery options during peak seasons
 
 ---
 
-### 3. Expand Regional Reach
+#### 3. Expand Regional Reach
 - Launch state-specific promotions
 - Adjust product assortment to regional preferences
 - Provide shipping incentives to drive engagement in underserved states

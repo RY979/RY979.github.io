@@ -7,8 +7,7 @@ author_profile: true
 ---
 
 ### [Merchandising Dashboard (Power BI + SQL)](/projects/merchandising-dashboard/)
-This dashboard explores sales performance, customer value, product category trends, and order behaviors to uncover actionable merchandising insights.
-
+This dashboard explores sales performance, customer value, product category trends, and order behaviors to uncover actionable merchandising insights.        
 Key metrics include CLV, repurchase rate, average order value, and monthly sales seasonality.
 
 ### Marketing Campaign Analysis (Python + SQL)

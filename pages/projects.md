@@ -6,8 +6,8 @@ classes: wide
 author_profile: true
 ---
 
-### Merchandising Dashboard (Power BI + SQL) (/projects/Merchandise Analysis/)
-Store traffic, sales, and conversion. Top and bottom stores. Slicers by region and district.  
+### [Merchandising Dashboard (Power BI + SQL)](/projects/MerchandiseAnalysis/)
+Customer value, sales performance, and purchasing behavior. Product category trends, regional sales distribution, and shipping efficiency. Key metrics include CLV, repurchase rate, average order value, and monthly sales seasonality.
 
 ### Marketing Campaign Analysis (Python + SQL)
 ROAS, A/B test, and a simple regression to find the best channels.  

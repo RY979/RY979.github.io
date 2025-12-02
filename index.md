@@ -8,7 +8,7 @@ classes: wide
 I am Athena Zhang, a recent graduate from Northeastern University with high honors in Mathematics and Business Administration, concentrating in Marketing Analytics.
 </div>
 
-<div style="font-size:0.85rem;">
+<div style="font-size:0.85rem;"><br>
 I like to think before I act and take initiative when something needs direction. I enjoy finding creative ways to keep things moving smoothly toward the goal. My experience includes:<br>
 • A co-op at TJX focusing on store operations and analytics<br>
 • Internship at Sephora focusing on merchandising<br>

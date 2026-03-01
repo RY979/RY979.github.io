@@ -13,5 +13,5 @@ Key metrics include CLV, repurchase rate, average order value, and monthly sales
 ### Marketing Campaign Analysis (Python + SQL)
 ROAS, A/B test, and a simple regression to find the best channels.  
 
-### [Customer Segmentation (Python)](assets/projects/Segmentation_project.html)
+### [Customer Segmentation (Python)](/assets/projects/Segmentation_project.html/)
 K‑means on RFM. Group profiles and suggested actions.  
